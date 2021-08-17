@@ -1,10 +1,10 @@
-package com.tommywebdesigns.assignmentrxjava.view.adaptor
+package com.tommywebdesigns.fusionalliance.view.adaptor
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.tommywebdesigns.assignmentrxjava.databinding.ListItemLayoutBinding
-import com.tommywebdesigns.assignmentrxjava.model.data.GitHubResponseItem
+import com.tommywebdesigns.fusionalliance.databinding.ListItemLayoutBinding
+import com.tommywebdesigns.fusionalliance.model.data.GitHubResponseItem
 
 
 class GitHupAdapter(private val delegate: GitHubDelegate): RecyclerView.Adapter<GitHupAdapter.ListViewHolder>() {

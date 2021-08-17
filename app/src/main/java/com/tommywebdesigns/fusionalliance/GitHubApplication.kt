@@ -1,8 +1,8 @@
-package com.tommywebdesigns.assignmentrxjava
+package com.tommywebdesigns.fusionalliance
 
 import android.app.Application
-import com.tommywebdesigns.assignmentrxjava.di.component.DaggerGitHubComponent
-import com.tommywebdesigns.assignmentrxjava.util.GitHubSingleton
+import com.tommywebdesigns.fusionalliance.di.component.DaggerGitHubComponent
+import com.tommywebdesigns.fusionalliance.util.GitHubSingleton
 
 class GitHubApplication: Application(){
 

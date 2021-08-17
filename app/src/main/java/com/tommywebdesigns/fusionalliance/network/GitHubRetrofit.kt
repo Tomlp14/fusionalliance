@@ -1,9 +1,8 @@
-package com.tommywebdesigns.assignmentrxjava.network
-import com.tommywebdesigns.assignmentrxjava.model.data.GitHubResponse
-import com.tommywebdesigns.assignmentrxjava.model.data.GitHubResponseItem
-import com.tommywebdesigns.assignmentrxjava.util.Constants.Companion.BASE_URL
-import com.tommywebdesigns.assignmentrxjava.util.Constants.Companion.END_POINT
-import com.tommywebdesigns.assignmentrxjava.util.Constants.Companion.USER_PATH
+package com.tommywebdesigns.fusionalliance.network
+import com.tommywebdesigns.fusionalliance.model.data.GitHubResponseItem
+import com.tommywebdesigns.fusionalliance.util.Constants.Companion.BASE_URL
+import com.tommywebdesigns.fusionalliance.util.Constants.Companion.END_POINT
+import com.tommywebdesigns.fusionalliance.util.Constants.Companion.USER_PATH
 import io.reactivex.Single
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory

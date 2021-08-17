@@ -1,4 +1,4 @@
-package com.tommywebdesigns.assignmentrxjava.util
+package com.tommywebdesigns.fusionalliance.util
 
 class Constants {
 

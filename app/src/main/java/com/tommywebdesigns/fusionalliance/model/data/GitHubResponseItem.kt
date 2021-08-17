@@ -1,4 +1,4 @@
-package com.tommywebdesigns.assignmentrxjava.model.data
+package com.tommywebdesigns.fusionalliance.model.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

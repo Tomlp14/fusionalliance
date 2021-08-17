@@ -1,4 +1,4 @@
-package com.tommywebdesigns.assignmentrxjava
+package com.tommywebdesigns.fusionalliance
 
 import org.junit.Test
 

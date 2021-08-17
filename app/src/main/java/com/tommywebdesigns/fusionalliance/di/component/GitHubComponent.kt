@@ -1,6 +1,6 @@
-package com.tommywebdesigns.assignmentrxjava.di.component
+package com.tommywebdesigns.fusionalliance.di.component
 
-import com.tommywebdesigns.assignmentrxjava.model.GitHubRepository
+import com.tommywebdesigns.fusionalliance.model.GitHubRepository
 import dagger.Component
 import javax.inject.Singleton
 

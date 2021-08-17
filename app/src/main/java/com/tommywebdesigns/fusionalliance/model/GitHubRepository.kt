@@ -1,8 +1,7 @@
-package com.tommywebdesigns.assignmentrxjava.model
+package com.tommywebdesigns.fusionalliance.model
 
-import com.tommywebdesigns.assignmentrxjava.model.data.GitHubResponse
-import com.tommywebdesigns.assignmentrxjava.model.data.GitHubResponseItem
-import com.tommywebdesigns.assignmentrxjava.network.GitHubRetrofit
+import com.tommywebdesigns.fusionalliance.model.data.GitHubResponseItem
+import com.tommywebdesigns.fusionalliance.network.GitHubRetrofit
 import io.reactivex.Single
 import javax.inject.Inject
 import javax.inject.Singleton

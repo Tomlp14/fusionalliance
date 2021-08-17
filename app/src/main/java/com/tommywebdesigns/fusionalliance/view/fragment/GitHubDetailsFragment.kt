@@ -1,13 +1,13 @@
-package com.tommywebdesigns.assignmentrxjava.view.fragment
+package com.tommywebdesigns.fusionalliance.view.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.tommywebdesigns.assignmentrxjava.databinding.GithubDetailsFragmentLayoutBinding
-import com.tommywebdesigns.assignmentrxjava.model.data.GitHubResponseItem
-import com.tommywebdesigns.assignmentrxjava.util.Constants.Companion.RESULT_KEY
+import com.tommywebdesigns.fusionalliance.databinding.GithubDetailsFragmentLayoutBinding
+import com.tommywebdesigns.fusionalliance.model.data.GitHubResponseItem
+import com.tommywebdesigns.fusionalliance.util.Constants.Companion.RESULT_KEY
 
 class GitHubDetailsFragment: Fragment() {
    //Instead of having to instantiate the fragment, I can get it straigth from this static method (the class instead).
